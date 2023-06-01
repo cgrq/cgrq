@@ -8,8 +8,8 @@ I'm a quick study who is looking to make an impact right away and grow with the 
 
 Here are my projects: 
 
-[Loom](https://loom.shopping)
-[Smoke Signal](https://smokesignal.chat)
+[Loom,](https://loom.shopping)
+[Smoke Signal,](https://smokesignal.chat)
 [Gather](https://gather.city)
 
 

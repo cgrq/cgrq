@@ -14,5 +14,3 @@ Here are my projects:
 
   * [Gather](https://gather.city)
 
-
-[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgrq)](https://github.com/anuraghazra/github-readme-stats)

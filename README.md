@@ -8,11 +8,11 @@ I'm a quick study who is looking to make an impact right away and grow with the 
 
 Here are my projects: 
 
-[Loom](https://loom.shopping),
+  * [Loom](https://loom.shopping)
 
-[Smoke Signal](https://smokesignal.chat),
+  * [Smoke Signal](https://smokesignal.chat)
 
-[Gather](https://gather.city)
+  * [Gather](https://gather.city)
 
 
 [![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgrq)](https://github.com/anuraghazra/github-readme-stats)

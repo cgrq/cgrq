@@ -1,4 +1,4 @@
-### Hi my name is Christian 🙋🏼‍♂️
+### Hi my name is Christian
 
 I have 7 years of technical and leadership experience in both IT and Marketing roles at a large tech company. I've had a passion for software development as an enthusiast for many years and now have decided to pursue it as my career full time. My favorite project I'm working on is an e-commerce site called Loom that allows users to sell products p2p. I'm working with three other incredible devs on a chat app that utilizes web sockets (rooms) for real-time, persistent chats called Smoke Signal as well.
 

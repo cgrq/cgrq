@@ -6,7 +6,7 @@ I also love art and design. I have a creative side and was even paid to be creat
 
 I'm a quick study who is looking to make an impact right away and grow with the company I choose.
 
-Here are my projects: 
+Here are my live projects: 
 
   * [Loom](https://loom.shopping)
 

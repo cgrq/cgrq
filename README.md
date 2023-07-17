@@ -6,7 +6,7 @@ There are three main projects I'm working on right now: Loom, Smoke Signal, and 
 
 I also have a passion for art and design. I have a creative side and was paid to be creative when I led Corporate Video at my previous org. My last boss, the Head of Corporate Brand who was a graphic designer for 15+ years, used to call me a "real designer". I'm highly proficient in Adobe Illustrator, After Effects, and have my Lottie animation workflow down for fast integration with React. 
 
-I'm a detail oriented, creative team player/leader, and a quick study who is looking to make an impact in all endevors.
+I'm a detail oriented, creative team player/leader, and a quick study who is looking to make an impact in all endeavors.
 
 Here are my live projects: 
 

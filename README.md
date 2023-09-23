@@ -1,4 +1,4 @@
-### Hi my name is Christian 🫡
+### Hi my name is Christian 
 
 I am transitioning from a career as a IT and Marketing leader at a large tech company into software engineering.
 

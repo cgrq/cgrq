@@ -1,16 +1,10 @@
 ### Hi my name is Christian
 
-I have seven years of technical and leadership experience in both IT and Marketing roles at a large tech company. I've had an interest in software development as an enthusiast for many years, and now am pursuing it as my career full time.
+I am transitioning from a career as a IT and Marketing leader at a large tech company into software engineering.
 
-The three main projects I'm working on are: Loom, Smoke Signal, and Gather. 
+I have an ownership mentality and am quick study who's eager to work with passionate people and make an immediate impact.
 
-Loom is an e-commerce site called Loom that allows users to sell products peer-to-peer. 
-
-Smoke Signal is a chat app that utilizes web sockets (socket.io rooms) for real-time, persistent messaging channels that I built with three other amazing devs. 
-
-Gather is a meet up site I developed a mini brand for and followed brand and motion animation guidelines for my component styling to align to. 
-
-Here are my live projects:
+Check out my projects via the links below.
 
   * [Gather](https://gather.city)
     
